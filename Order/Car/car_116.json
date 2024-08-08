@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "engine": {
+    "carburation": "FUEL",
+    "power": 120
+  },
+  "options": "gps",
+  "vin": "PWE-7R923B-7396ZABB",
+  "model": {
+    "model": "5008",
+    "brand": "Peugeot"
+  }
+}

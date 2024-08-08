@@ -1,0 +1,13 @@
+{
+  "scenario": "A",
+  "ports": {
+    "TeslaDealerShipTCP": 5001,
+    "TeslaFactoryTCP": 5001,
+    "TeslaFactoryUDP": 2025,
+    "TeslaProviderUDP": 2024,
+    "PeugeotDealerShipTCP": 5005,
+    "PeugeotProviderUDP": 2031,
+    "PeugeotFactoryTCP": 5005,
+    "PeugeotFactoryUDP": 2030,
+  }
+}

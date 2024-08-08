@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "engine": {
+    "carburation": "FUEL",
+    "power": 520
+  },
+  "options": "gps",
+  "vin": "3NJ-1Y82C9-8PC51XVV",
+  "model": {
+    "model": "X",
+    "brand": "Tesla"
+  }
+}

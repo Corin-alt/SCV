@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "engine": {
+    "carburation": "FUEL",
+    "power": 542
+  },
+  "options": "gps",
+  "vin": "JAJ-ZPHHTP-W9HEPGDK",
+  "model": {
+    "model": "3008",
+    "brand": "Peugeot"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "engine": {
+    "carburation": "FUEL",
+    "power": 120
+  },
+  "options": "gps",
+  "vin": "PKF-2BSVHT-X41PR6ED",
+  "model": {
+    "model": "X",
+    "brand": "Tesla"
+  }
+}

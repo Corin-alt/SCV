@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "engine": {
+    "carburation": "FUEL",
+    "power": 45
+  },
+  "options": "radio",
+  "vin": "MF5-APP8WE-EGCUBG3W",
+  "model": {
+    "model": "3",
+    "brand": "Tesla"
+  }
+}

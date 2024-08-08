@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "engine": {
+    "carburation": "FUEL",
+    "power": 540
+  },
+  "options": "gps, radio",
+  "vin": "GUA-SYBBL9-AXP5UFTP",
+  "model": {
+    "model": "X",
+    "brand": "Tesla"
+  }
+}
